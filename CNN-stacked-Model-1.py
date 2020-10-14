@@ -206,6 +206,8 @@ history=model.fit_generator(train_generator, steps_per_epoch=int(len(X_train)/ba
                     
                     
                     
-                    
+#Saving Model Weights 
+model.save('Desktop/cnn.h5')                     
+                
                     
                     
