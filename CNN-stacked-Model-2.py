@@ -1,6 +1,8 @@
 
 #STACKED ENSEMBLE MODEL- 2
 
+#Here we have added the stacked CNN-2 model only
+
 
 
 
