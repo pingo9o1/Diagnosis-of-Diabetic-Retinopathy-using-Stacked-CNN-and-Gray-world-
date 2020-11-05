@@ -1,5 +1,9 @@
 
 
+
+#Here we have added the stacked CNN-3 model only
+
+
 model = Sequential()
 
 model.add(Conv2D(64, (3, 3), padding='same', activation='elu', input_shape=X_train[0].shape))   #using inline activation function 
