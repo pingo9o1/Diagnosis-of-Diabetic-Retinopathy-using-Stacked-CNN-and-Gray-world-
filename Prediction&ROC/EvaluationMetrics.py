@@ -85,5 +85,5 @@ Printing Classification Report
 
 from sklearn.metrics import classification_report
 
-print(classification_report(y_test, ypred_class,target_names=lb.classes_))
+print(classification_report(y_test, ypred_class,target_names=lb.classes_))          #for generating the classwise report of the results 
 
