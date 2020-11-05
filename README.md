@@ -9,3 +9,4 @@ Diabetic retinopathy (DR) is a diabetes complication that affects the eye and ca
 
 Dataset Acquired from : http://www.eyepacs.com/data-analysis    
 
+![IQAAnalasyis](https://user-images.githubusercontent.com/48962963/98281764-2d0f6700-1fc3-11eb-8cb3-f44b67f18c9d.PNG)
